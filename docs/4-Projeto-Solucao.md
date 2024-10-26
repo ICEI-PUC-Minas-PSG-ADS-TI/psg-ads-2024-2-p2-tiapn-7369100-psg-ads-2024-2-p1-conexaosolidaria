@@ -52,10 +52,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 #### 4.3.3 Modelo Físico
 
-Insira aqui o script de criação das tabelas do banco de dados.
-
-Veja um exemplo:
-
 <code>
 
  CREATE TABLE Voluntario (
@@ -148,11 +144,6 @@ ALTER TABLE Match_Demonstra_Interesse ADD CONSTRAINT FK_Match_Demonstra_Interess
     REFERENCES ONG (ID_ONG);
 
 </code>
-
-Este script deverá ser incluído em um arquivo .sql na pasta src\bd.
-
-
-
 
 ### 4.4. Tecnologias
 
