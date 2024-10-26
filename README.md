@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# Conexão Solidária
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar`
 
-`SEMESTRE`
+`Segundo Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do projeto é a criação de um sistema online, bem estruturado, dinâmico, intuitivo e de fácil usabilidade para conectar o voluntariado à população necessitada. Apresentar a utilidade de um sistema de modo a conectar os voluntários às pessoas necessitadas. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Pedro Henrique de Prates Souza 
+* Nathália Carneiro Prates Souza 
+* Isabela Evangelho Bento 
+* Jessyca Valadares Leão 
+* Gabriel dos Santos Lopes de Araujo 
+* Marcos Vinícius Soares Guimarães 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cleia Márcia Gomes Amaral
 
 ## Instruções de utilização
 
