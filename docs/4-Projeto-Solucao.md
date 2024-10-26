@@ -21,17 +21,17 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>.
 A partir das atividades de usuário identificadas na seção anterior, elabore o protótipo de tela de cada uma delas.
 ![Exemplo de Wireframe](images/telas/tela1.png)
-(images/telas/tela2.png)
-(images/telas/tela3.png)
-(images/telas/tela4.png)
-(images/telas/tela5.png)
-(images/telas/tela6.png)
-(images/telas/tela7.png)
-(images/telas/tela8.png)
-(images/telas/tela9.png)
-(images/telas/tela10.png)
-(images/telas/tela11.png)
-(images/telas/tela12.png)
+!(images/telas/tela2.png)
+!(images/telas/tela3.png)
+!(images/telas/tela4.png)
+!(images/telas/tela5.png)
+!(images/telas/tela6.png)
+!(images/telas/tela7.png)
+!(images/telas/tela8.png)
+!(images/telas/tela9.png)
+!(images/telas/tela10.png)
+!(images/telas/tela11.png)
+!(images/telas/tela12.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
