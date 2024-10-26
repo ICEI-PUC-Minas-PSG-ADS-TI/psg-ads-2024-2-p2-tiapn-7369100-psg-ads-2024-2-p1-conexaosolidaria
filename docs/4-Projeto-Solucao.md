@@ -142,7 +142,8 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 | **Dimensão**   | **Tecnologia**  |
 | ---            | ---             |
 | SGBD           | MySQL           |
-| Front end      | HTML+CSS+JS     |
-| Back end       | Java SpringBoot |
-| Deploy         | Github Pages    |
+| Front end      | HTML+CSS+JS+Bootstrap |
+| Back end       | C# |
+| Deploy         | Github Pages |
+| IDE            | Visual Studio Code e Visual Studio |
 
