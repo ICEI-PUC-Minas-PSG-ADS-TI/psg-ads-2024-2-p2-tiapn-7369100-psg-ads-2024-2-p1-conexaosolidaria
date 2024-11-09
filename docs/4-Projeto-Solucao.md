@@ -9,22 +9,22 @@
  ![Exemplo de Arquitetura](./images/geral.jpg)
  
 
-### 4.2. Protótipos de telas
+### 4.2. Protótipos de wireframe
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema.
 
-![Exemplo de Wireframe](images/telas/tela1.png)
-![Exemplo de Wireframe](images/telas/tela2.png)
-![Exemplo de Wireframe](images/telas/tela3.png)
-![Exemplo de Wireframe](images/telas/tela4.png)
-![Exemplo de Wireframe](images/telas/tela5.png)
-![Exemplo de Wireframe](images/telas/tela6.png)
-![Exemplo de Wireframe](images/telas/tela7.png)
-![Exemplo de Wireframe](images/telas/tela8.png)
-![Exemplo de Wireframe](images/telas/tela9.png)
-![Exemplo de Wireframe](images/telas/tela10.png)
-![Exemplo de Wireframe](images/telas/tela11.png)
-![Exemplo de Wireframe](images/telas/tela12.png)
+![Exemplo de Wireframe](images/wireframe/tela1.png)
+![Exemplo de Wireframe](images/wireframe/tela2.png)
+![Exemplo de Wireframe](images/wireframe/tela3.png)
+![Exemplo de Wireframe](images/wireframe/tela4.png)
+![Exemplo de Wireframe](images/wireframe/tela5.png)
+![Exemplo de Wireframe](images/wireframe/tela6.png)
+![Exemplo de Wireframe](images/wireframe/tela7.png)
+![Exemplo de Wireframe](images/wireframe/tela8.png)
+![Exemplo de Wireframe](images/wireframe/tela9.png)
+![Exemplo de Wireframe](images/wireframe/tela10.png)
+![Exemplo de Wireframe](images/wireframe/tela11.png)
+![Exemplo de Wireframe](images/wireframe/tela12.png)
 
 ### 4.3. Modelo de dados
 

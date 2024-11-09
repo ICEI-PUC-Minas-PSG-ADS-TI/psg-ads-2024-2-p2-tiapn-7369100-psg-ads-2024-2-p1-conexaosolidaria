@@ -4,23 +4,18 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema e busca do objetivo final do software são apresentadas nas figuras a seguir.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+## Persona 1: Dr.Lucas Almeida
+![Persona1](images/persona1.jpg)
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+## Persona 2: Maria Clara
+![Persona2](images/persona2.jpg)
+
+## Persona 3: Sarah Carvalho
+![Persona3](images/persona3.jpg)
 
 ## Histórias de Usuários
 
@@ -28,64 +23,54 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-
+|Sarah Carvalho      | Deve aver informações sobre ONGs Locais | Pois tenho mobilidade reduzida e desejo contribuir com pessoas próximas a mim |
+|Carla Oliveira      | Quero informações rápidas, que seja acessível e fácil de entender | Pois desejo me engajar em atividades voluntárias para ajudar minha comunidade |
+|Lucas Almeida       | Informações claras e detalhadas sobre as necessidades e objetivos da ONG | Para me inscrever em oportunidades de  voluntariado e ajudar pessoas necessitadas na minha região |
+|Maria Clara         | Quer ajudar a conectar voluntários com causas que realmente precisam de apoio | Para me engajar em atividades voluntárias para ajudar minha comunidade |
+|João Pedro          | Quero um sistema que mapeie as zonas mais necessitadas | Para que eu possa direcionar os voluntários às áreas com maior demanda |
+|José Algusto        | Quero encontrar pessoas dispostas a ajudar e ser voluntárias a minha ONG | Pois preciso de suporte com serviços essenciais, como alimentação e cuidados básicos |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+Para que haja um projeto bem estruturado e sólido é necessário requisitos a serem implementados, sendo eles, requisitos funcionais, que descrevem os aspectos que o sistema deve apresentar, de modo geral, para uma boa funcionalidade. Os requisitos são estes apresentados a seguir.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID     | Descrição do Requisito                                                                                                           | Prioridade |
+|--------|----------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | Login/Criação de conta: Permitir que o usuário crie um login para acessar sua conta privada                                      | ALTA       |
+| RF-002 | Preenchimento de dados para atendimento: O sistema permite que qualquer pessoa preencha um questionário para eventual atendimento | MÉDIA      |
+| RF-003 | Chat de interação entre ONGs e Voluntários: Facilitar interação, coordenação ou parcerias para melhor atendimento ao público      | MÉDIA      |
+| RF-004 | Serviços prestados pelos voluntários/ONGs: Exibir os serviços oferecidos e suas finalidades                                      | MÉDIA      |
+| RF-005 | Sistema de matching: Se as condições do paciente atenderem os critérios de alguma ONG ou voluntário, ele poderá dar um match     | MÉDIA      |
+| RF-006 | Agendamento de horários: Após o matching e verificação da disponibilidade de atendimento, o usuário poderá agendar o atendimento | MÉDIA      |
+| RF-007 | Aceitação do atendimento: Após a solicitação, o usuário terá a opção de aceitar ou rejeitar o atendimento                        | MÉDIA      |
+| RF-008 | Painel de controle para ONGs: ONGs podem gerenciar voluntários, blogs, atendimentos e tarefas                                    | MÉDIA      |
+| RF-009 | Aba de doações: O sistema contará com uma seção exclusiva para doações                                                           | MÉDIA      |
+| RF-010 | Aba blog: O sistema contará com uma seção exclusiva para conteúdo no formato de blog                                             | MÉDIA      |
 
-### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+### Requisitos Não Funcionais
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+| ID       | Descrição do Requisito                                                                                                       | Prioridade |
+|----------|-------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001  | O sistema contará com um mapa mostrando os pontos de atendimento                                                              | MÉDIA      |
+| RNF-002  | Mapa de zonas com maior índice de atendimento: Exibir o foco das áreas que mais necessitam de atendimentos                    | MÉDIA      |
+| RNF-003  | Sistema de notificações sobre consultas: ONGs e voluntários receberão notificações sobre pedidos de consulta                  | ALTA       |
+| RNF-004  | Solicitação de atendimento: Após o agendamento, o responsável pelo atendimento receberá a solicitação                         | ALTA       |
+| RNF-005  | Integração de calendário para agendamento: Após aceitar a consulta, o sistema salva a data e horário no calendário do profissional | ALTA |
+| RNF-006  | Sistema de avaliação e feedback: Permitir que os usuários avaliem os serviços prestados                                       | MÉDIA      |
+| RNF-007  | Integração com mapas para unidades de atendimento: Localizar facilmente os locais de atendimento                              | MÉDIA      |
+| RNF-008  | Usabilidade: O sistema deve garantir uma interface intuitiva e fácil de usar, com navegação clara e processos simplificados   | ALTA       |
+| RNF-009  | Segurança e privacidade: O sistema contará com criptografia para assegurar a segurança e privacidade dos usuários             | ALTA       |
+| RNF-010  | O sistema deve ser responsivo para rodar em dispositivos móveis                                                               | MÉDIA      |
+| RNF-011  | Deve processar requisições do usuário em no máximo 3 segundos                                                                 | BAIXA      |
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
+### Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| ID  | Restrição                                                      |
+|-----|----------------------------------------------------------------|
+| 01  | O projeto deve ser concluído, obrigatoriamente, até 20 de dezembro de 2024 |
+| 02  | Nenhum membro pode terceirizar o desenvolvimento do trabalho   |

@@ -7,30 +7,33 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 
 ## 6.1. Tela principal do sistema
 
-_Descrição da tela principal do sistema._
+Tela de perfil do usuário, onde é possivel editar o perfil e colocar biografia.
 
-[`Tela principal do sistema`](images/)
+[`Tela principal do sistema`](images/telas/tela5.png)
 
 
 ## 6.2. Telas do processo 1
 
-_Descrição da tela relativa à atividade 1._
+Tela de cadastro da ONG.
 
-[`Tela da atividade 1`](images/)
+[`Tela da atividade 1`](images/telas/tela1.png)
 
-_Descrição da tela relativa à atividade 2._
+Tela de cadastro do Voluntário.
 
-[`Tela da atividade 2`](images/)
+[`Tela da atividade 2`](images/telas/tela2.png)
 
 
 ## 6.3. Telas do processo 2
 
-_Descrição da tela relativa à atividade 1._
+Tela de Match dos usuários.
 
-[`Tela da atividade 1`](images/)
+[`Tela da atividade 1`](images/telas/tela9.png)
 
-_Descrição da tela relativa à atividade 2._
 
-[`Tela da atividade 2`](images/)
+## 6.4. Telas do processo 3
+
+Tela de pesquisar os usuários.
+
+[`Tela da atividade 1`](images/telas/tela8.png)
 
 

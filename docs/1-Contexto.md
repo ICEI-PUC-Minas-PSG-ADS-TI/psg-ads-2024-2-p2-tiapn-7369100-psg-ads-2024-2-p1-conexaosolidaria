@@ -1,46 +1,32 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A saúde é inerente ao ser humano, para que se possa viver com um mínimo de dignidade a primeira preocupação é com a saúde, por tanto a própria Constituição da República trás no seu artigo 196 que a saúde é direito de todos e dever do Estado.  Não somente, mas o acesso deve ser universal e igualitário (Constituição Federal, 1988). Porém é possível constatar que na realidade brasileira existe muitas pessoas que não tem acesso a saúde ou o acesso é deficiente por parte do Estado.  
+
+Segundo INSTITUTIONS RANKINGS, Scimago (2002) quanto mais baixa renda menor é o acesso à saúde no Brasil. Do mesmo modo, um estudo publicado pelo Instituto de Estudos para Políticas de Saúde (IEPS) realizado em 2013 e 2019 destaca que 3,8%  e 7,5% da população relataram a impossibilidade de atendimento e acesso aos serviços de saúde e medicamentos. Esse problema é demasiadamente acentuado entre a população de menor renda (ESTUDOS PARA POLÍTICAS DE SAÚDE, Instituto 
+(2023)).  
+
+Diante do exposto a população mais pobre é a que menos faz gozo a saúde de qualidade pois, o que o Estado oferece não cumpre a demanda necessária, com isso, muitas pessoas ficam à mercê. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme exposto, se busca construir um sistema que conectará pessoas necessitadas as ONGs (Organização Não Governamental) ou voluntariados profissionais da saúde. O programa buscará mapear áreas de maior necessidade e otimizar a coordenação de recursos. O projeto busca promover a eficiência e a justiça social melhorando o acesso a serviços de saúde para garantir que a acessibilidade chegue a quem mais precisa.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é a criação de um sistema online, bem estruturado, dinâmico, intuitivo e de fácil usabilidade para conectar o voluntariado à população necessitada. Apresentar a utilidade de um sistema de modo a conectar os voluntários às pessoas necessitadas. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, pode-se ressaltar: 
+- Mapeamento de zonas necessitadas; 
+- Implementar um sistema de voluntários para prestar atendimentos; 
+- Recrutamento de voluntariados; 
+- Cadastro de pessoas necessitadas.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O SUS foi um exemplo de iniciativa para igualdade e manutenção à saúde populacional brasileira. Entretanto, a saúde pública possui desafios pelo mau gerenciamento e falta de investimento. Portanto, temos um sistema em colapso, insuficiente e com baixa qualidade para atender a população (MAGALHÃES, Lana, [s.d.]). 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Uma pesquisa realizada pelo Conselho Federal de Medicina (CFM), demonstrou que 89% (oitenta e nove porcento) da população brasileira classificou a saúde pública como péssima, ruim ou regular (MAGALHÃES, Lana, [s.d.]). Por tanto, para que as parcelas mais necessitadas possam ter um pouco mais de dignidade são necessários meios de acesso à saúde sem comprometer sua subsistência. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo do projeto são as ONGs e os voluntários que desejam contribuir com o atendimento às pessoas necessitadas. O voluntário deve também possuir o registro no CRM (Conselho Regional de Medicina) ou CFM (Conselho Federal de Medicina).
