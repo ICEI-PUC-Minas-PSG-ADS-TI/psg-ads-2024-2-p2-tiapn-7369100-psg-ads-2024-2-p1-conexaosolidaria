@@ -53,7 +53,7 @@ Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoi
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Cadastro](./processos/processo-1-cadastro.md.md "Trata-se da tela de cadastro e login de ONGs e voluntários.")
+[PROCESSO 1 - Cadastro](./processos/processo-1-cadastro.md "Trata-se da tela de cadastro e login de ONGs e voluntários.")
 
 [PROCESSO 2 - Pesquisar](./processos/processo-2-sistema-match.md "Trata-se da tela de Match d ONGs e voluntários.")
 
