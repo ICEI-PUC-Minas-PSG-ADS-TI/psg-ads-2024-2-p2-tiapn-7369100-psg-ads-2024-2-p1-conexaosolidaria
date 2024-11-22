@@ -18,20 +18,26 @@ _Os tipos de dados a serem utilizados são:_
 
 _* **Caixa de texto** - campo texto de uma linha_
 
-**Pesquisar OGNs e Voluntários**
+# Pesquisar ONGs e Voluntários
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| Pesquisar       | Caixa de Texto   | Máximo 30      | ---               |
+| **Campo**    | **Tipo**       | **Restrições**           | **Valor Default**     |
+|--------------|----------------|--------------------------|-----------------------|
+| Pesquisar    | Caixa de Texto | Máximo 30 caracteres     | Sem valor padrão      |
 
-| **Comandos**    |  **Destino**                                      | **Tipo** |
-| Matching        | Encaminhar para página do catálogo de Voluntário  |  Default |
-| Card Voluntários| Encaminhar para página de perfil de Voluntário    |  Default |
+| **Comandos**     | **Destino**                                      | **Descrição**                                     |
+|------------------|--------------------------------------------------|-------------------------------------------------|
+| Matching         | Encaminhar para página do catálogo de Voluntários | Ação principal para encontrar voluntários       |
+| Card Voluntários | Encaminhar para página de perfil de Voluntários  | Visualizar detalhes do perfil de voluntários    |
 
-**Pesquisar Voluntários**
+---
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| Pesquisar       | Caixa de Texto   | Máximo 30      | ---               |
+# Pesquisar Voluntários
 
-| **Comandos**    |  **Destino**                                      | **Tipo** |
-| Matching        | Encaminhar para página do catálogo de ONGs        |  Default |
-| Card ONGs       | Encaminhar para página de perfil de ONGs          |  Default |
+| **Campo**    | **Tipo**       | **Restrições**           | **Valor Default**     |
+|--------------|----------------|--------------------------|-----------------------|
+| Pesquisar    | Caixa de Texto | Máximo 30 caracteres     | Sem valor padrão      |
+
+| **Comandos**     | **Destino**                                      | **Descrição**                                     |
+|------------------|--------------------------------------------------|-------------------------------------------------|
+| Matching         | Encaminhar para página do catálogo de ONGs       | Ação principal para encontrar ONGs              |
+| Card ONGs        | Encaminhar para página de perfil de ONGs         | Visualizar detalhes do perfil de ONGs           |
