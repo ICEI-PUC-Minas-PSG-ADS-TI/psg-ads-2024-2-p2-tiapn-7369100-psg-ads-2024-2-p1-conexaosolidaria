@@ -22,35 +22,39 @@ _Os tipos de dados a serem utilizados são:_
 _* **Caixa de texto** - campo texto de uma linha_
 
 
-**Cadastro de Voluntários**
+# Cadastro de Voluntários
 
-| **Campo**            | **Tipo**         | **Restrições**       | **Valor default** |
-| Nome do voluntário   | Caixa de texto   | Máximo 30 caracteres | ---               |
-| Telefone             | Numérico         | Máximo 12 caracteres | ---               |
-| CPF                  | Numérico         | Máximo 14 caracteres | ---               |
-| Registro do Conselho | Caixa de texto   | ---                  | ---               |
-| Área de atuação      | Caixa de texto   | ---                  | ---               |
-| Endereço             | Caixa de texto   | formato 100 caracter | ---               |
-| Email                | Caixa de texto   | Formato de e-mail    | ---               |
-| Senha                | Caixa de texto   | Mínimo 8 caracters   | ---               |
+| **Campo**            | **Tipo**         | **Restrições**                 | **Valor Default**     |
+|-----------------------|------------------|--------------------------------|-----------------------|
+| Nome do voluntário    | Caixa de texto   | Máximo 30 caracteres           | Sem valor padrão      |
+| Telefone              | Numérico         | Máximo 12 caracteres           | Sem valor padrão      |
+| CPF                   | Numérico         | Máximo 14 caracteres           | Sem valor padrão      |
+| Registro do Conselho  | Caixa de texto   | Sem restrições                 | Sem valor padrão      |
+| Área de atuação       | Caixa de texto   | Sem restrições                 | Sem valor padrão      |
+| Endereço              | Caixa de texto   | Máximo 100 caracteres          | Sem valor padrão      |
+| Email                 | Caixa de texto   | Formato de e-mail válido       | Sem valor padrão      |
+| Senha                 | Caixa de texto   | Mínimo 8 caracteres            | Sem valor padrão      |
 
-| **Comandos**         |  **Destino**                             | **Tipo**          |
-| Cadastrar Voluntário | Enviar pop-up de confirmação de cadastro | Default           |
-| Cancelar             | Retornar para tela de login              | Cancelar          |
+| **Comandos**         | **Destino**                             | **Descrição**             |
+|-----------------------|-----------------------------------------|---------------------------|
+| Cadastrar Voluntário  | Enviar pop-up de confirmação de cadastro | Botão principal de cadastro |
+| Cancelar              | Retornar para tela de login            | Botão para cancelar ação  |
 
+---
 
-**Cadastro de ONGs**
+# Cadastro de ONGs
 
-| **Campo**            | **Tipo**         | **Restrições**       | **Valor default** |
-| Nome da ONG          | Caixa de texto   | Máximo 30 caracteres | ---               |
-| Telefone             | Numérico         | Máximo 12 caracteres | ---               |
-| CNPJ                 | Numérico         | Máximo 18 caracteres | ---               |
-| Área de atuação      | Caixa de texto   | ---                  | ---               |
-| Endereço             | Caixa de texto   | formato 100 caracter | ---               |
-| Email                | Caixa de texto   | Formato de e-mail    | ---               |
-| Senha                | Caixa de texto   | Mínimo 8 caracters   | ---               |
+| **Campo**            | **Tipo**         | **Restrições**                 | **Valor Default**     |
+|-----------------------|------------------|--------------------------------|-----------------------|
+| Nome da ONG           | Caixa de texto   | Máximo 30 caracteres           | Sem valor padrão      |
+| Telefone              | Numérico         | Máximo 12 caracteres           | Sem valor padrão      |
+| CNPJ                  | Numérico         | Máximo 18 caracteres           | Sem valor padrão      |
+| Área de atuação       | Caixa de texto   | Sem restrições                 | Sem valor padrão      |
+| Endereço              | Caixa de texto   | Máximo 100 caracteres          | Sem valor padrão      |
+| Email                 | Caixa de texto   | Formato de e-mail válido       | Sem valor padrão      |
+| Senha                 | Caixa de texto   | Mínimo 8 caracteres            | Sem valor padrão      |
 
-
-| **Comandos**         |  **Destino**                             | **Tipo**          |
-| Cadastrar ONG        | Enviar pop-up de confirmação de cadastro | Default           |
-| Cancelar             | Retornar para tela de login              | Cancelar          |
+| **Comandos**         | **Destino**                             | **Descrição**             |
+|-----------------------|-----------------------------------------|---------------------------|
+| Cadastrar ONG         | Enviar pop-up de confirmação de cadastro | Botão principal de cadastro |
+| Cancelar              | Retornar para tela de login            | Botão para cancelar ação  |
